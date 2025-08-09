@@ -49,9 +49,7 @@ class Helper(object):
 ❖ ᴡʜɪsᴘᴇʀ ❖```
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
-```
- єxᴧϻᴘʟє : @Jio_savan_music_bot @ll_YOU_NOW_BADNAM_ll I love You 😘
-```
+``` єxᴧϻᴘʟє : @venomumusicbot @venom_pratap I love You  ipsita😘```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
