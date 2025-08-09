@@ -118,12 +118,11 @@ async def start_pm(client, message: Message, _):
         await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ...❤️‍🔥__**")
         await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ....❤️‍🔥__**")
         await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ.....❤️‍🔥__**")
-        await baby.edit_text(f"**__ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴋɪᴛᴛʏ 🥀❤️__**")
-        await baby.edit_text(f"**__ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴋɪᴛᴛʏ 🥀❤️__**")
-        await baby.edit_text(f"**__ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴋɪᴛᴛʏ 🥀❤️__**")
-        await baby.edit_text(f"**__ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴋɪᴛᴛʏ 🥀❤️__**")
-        await baby.edit_text(f"**__ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴋɪᴛᴛʏ 🥀❤️__**")
-        await baby.edit_text(f"**__ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴋɪᴛᴛʏ 🥀❤️__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ.💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ..💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ...💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ....💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ.....💤__**")
         await baby.delete()
         
         await message.reply_photo(
